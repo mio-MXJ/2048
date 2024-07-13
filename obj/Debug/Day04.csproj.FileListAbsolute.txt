@@ -1,0 +1,7 @@
+D:\c daima cunfang\Day01\Day04\bin\Debug\Day04.exe.config
+D:\c daima cunfang\Day01\Day04\bin\Debug\Day04.exe
+D:\c daima cunfang\Day01\Day04\bin\Debug\Day04.pdb
+D:\c daima cunfang\Day01\Day04\obj\Debug\Day04.csproj.AssemblyReference.cache
+D:\c daima cunfang\Day01\Day04\obj\Debug\Day04.csproj.CoreCompileInputs.cache
+D:\c daima cunfang\Day01\Day04\obj\Debug\Day04.exe
+D:\c daima cunfang\Day01\Day04\obj\Debug\Day04.pdb
